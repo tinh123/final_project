@@ -1,0 +1,27 @@
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0159.jpg 1224,144,1263,180,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0154.jpg 1129,262,1190,310,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0675.jpg 445,880,520,969,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0152.jpg 1065,353,1138,403,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0155.jpg 1145,241,1202,287,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0149.jpg 995,453,1061,512,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0141.jpg 603,980,689,1070,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0148.jpg 936,535,1013,603,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0147.jpg 902,585,977,651,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0142.jpg 652,914,738,1001,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0145.jpg 831,682,908,753,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0143.jpg 704,848,786,935,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0673.jpg 340,998,422,1076,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0158.jpg 1204,162,1256,201,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0146.jpg 865,632,943,698,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0144.jpg 747,796,827,869,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0157.jpg 1190,178,1249,216,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0150.jpg 1020,419,1095,473,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0164.jpg 1272,60,1322,96,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0160.jpg 1233,126,1281,164,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0165.jpg 1283,32,1331,71,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0163.jpg 1270,76,1320,114,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0162.jpg 1262,87,1305,124,0 1289,95,1290,96,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0153.jpg 1115,291,1172,335,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0674.jpg 395,939,465,1019,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0156.jpg 1163,221,1215,264,0
+/home/tinh/luanvan/model/keras-yolo3-master/VOCdevkit/VOC2018/JPEGImages/plate0161.jpg 1253,104,1297,137,0
