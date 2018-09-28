@@ -21,7 +21,7 @@ def convert_annotation(year, image_id, list_file):
             xmlbox = obj.find('bndbox')
             b = (int(xmlbox.find('xmin').text), int(xmlbox.find('ymin').text), int(xmlbox.find('xmax').text), int(xmlbox.find('ymax').text))
             list_file.write(" " + ",".join([str(a) for a in b]) + ',' + str(cls_id))
-    except Exception as ex:
+    except:
         pass
 wd = getcwd()
 

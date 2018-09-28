@@ -87,7 +87,7 @@ plate1945
 plate0884
 plate0876
 plate2198
-plate2215.txt
+plate2215
 plate1510
 plate0683
 plate1948
@@ -187,7 +187,6 @@ plate2218
 plate1813
 plate1504
 plate2503
-classes.txt
 plate0679
 plate2213
 plate0869
