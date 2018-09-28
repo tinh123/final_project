@@ -4,22 +4,18 @@ Runing train model
 
    -Put all Images (.jpg) file in VOCdevkit/VOC2018/JPEGImages
 
-3. Copy 200 file .xml to VOCdevkit/VOC2018/data/val
 
-   Copy 400 file .xml to VOCdevkit/VOC2018/data/test
-
-   Copy all remaining files to VOCdevkit/VOC2018/data/train
-4. Set up requirement.txt
+3. Set up requirement.txt
 
    pip install -r requirements.txt 
-5. Create list files for train, test, validation
+4. Create list files for train, test, validation
 
    python create_listname.py
-6. Run VOC annotation file
+5. Run VOC annotation file
 
    python voc_annotation.py
-7. Run training 
+6. Run training 
 
    python train.py
 
-Create list file name will be update later to save space
+
