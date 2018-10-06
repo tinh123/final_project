@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>plate1962.jpg</filename>
+	<path>/home/tinh/data_video/data/plate1962.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1263</xmin>
+			<ymin>112</ymin>
+			<xmax>1318</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>
